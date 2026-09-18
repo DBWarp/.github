@@ -13,7 +13,7 @@
 
 ---
 
-DBWarp makes databases fast over distance. Our software cuts the latency and cost of moving
+DBWarp makes data and databases fast over distance. Our software cuts the latency and cost of moving
 and serving data across regions and clouds. It is a drop-in upgrade for PostgreSQL, MySQL and
 SQL Server that needs no change to your applications.
 
